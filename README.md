@@ -12,11 +12,11 @@ I am a data-driven Analyst skilled in turning complex datasets into clear, actio
 
 ![](https://komarev.com/ghpvc/?username=mahendra-jain&color=blue)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mahendra-jain)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=mahendra-jain)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahendra-jain&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahendra-jain&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahendra-jain&show_icons=true) -->
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
