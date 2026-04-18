@@ -1,8 +1,11 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I am a data-driven Analyst skilled in turning complex datasets into clear, actionable insights. With expertise in SQL, Python, Excel, and Power BI, I specialize in data cleaning, transformation, statistical analysis, and insightful visualizations. I also integrate AI-driven techniques into analysis and build automated workflows using n8n to streamline processes and enhance reporting efficiency.<br><br>I thrive in fast-paced environments where data shapes business decisions. My goal is to bridge the gap between raw information and real-world impact by delivering insights that are accurate, meaningful, and easy for stakeholders to act on.<br><br>
+I am a data-driven SEO & Digital Marketing Analyst skilled in turning search and user data into actionable growth strategies. With expertise in keyword research, on-page SEO, and analytics tools, I focus on improving organic visibility, search rankings, and website performance.
 
+I leverage tools like Google Search Console, SEMrush, and Looker Studio along with SQL, Python, and Excel to analyze performance, identify opportunities, and optimize content strategies. I also use AI-driven techniques and automation tools like n8n to streamline SEO workflows and enhance reporting efficiency.
+
+I thrive in fast-paced environments where data drives marketing decisions. My goal is to bridge the gap between search data and business impact by delivering insights that improve traffic, engagement, and overall digital performance.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/-mahendrajain-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahendrajain1998.mj@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?logo=firefox-browser&logoColor=white)](https://mahendrajainportfolio.netlify.app/) 
